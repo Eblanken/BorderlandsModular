@@ -1,0 +1,3 @@
+Use this directory for your UModel files, Do not upload those to Github (at least not yet) since they are very large.
+
+I should probably add this to a .gitignore but setting that up takes a bit of work...

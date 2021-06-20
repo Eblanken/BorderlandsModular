@@ -1,0 +1,7 @@
+1). In the exported files:
+	a). Normal maps are reasonable
+		1). The .obj .mtl files seem to point to the correct normal locations but in 3D viewer this information is lost
+		2). We could use the normals to get higher resolution geometry information? Seems pretty simple: https://blenderartists.org/t/normal-map-to-mesh/699687 but honestly doing everything in parametric cad could be easier.
+	b). The "color" textures are grey with some of the detail from the in-game view and have single highly colored pixels, could this be encoded information for locating things?
+	c). The "light" textures appear to have the in-game details (cracks, hand-drawn details) but are colored strangly, what do the color channels mean??
+	d). The manufacturer materials are captured in seperate U-model files but I cannot export them, is this just setting the base color and some reflection information?
