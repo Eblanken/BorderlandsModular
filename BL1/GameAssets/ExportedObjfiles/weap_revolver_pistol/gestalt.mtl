@@ -12,6 +12,6 @@ newmtl mat_revolver_pistol_INST
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka N:\Projects\BorderlandsGunModels\UmodelExport\weap_revolver_pistol\Texture2D\tex_revolver_color.tga
-	map_Kd N:\Projects\BorderlandsGunModels\UmodelExport\weap_revolver_pistol\Texture2D\tex_revolver_color.tga
-	norm N:\Projects\BorderlandsGunModels\UmodelExport\weap_revolver_pistol\Texture2D\tex_revolver_norm.tga
+	map_Ka tex_revolver_color.tga
+	map_Kd tex_revolver_color.tga
+	norm tex_revolver_norm.tga

@@ -1,0 +1,1 @@
+The transparencies are not captured in the .obj .mtl files? It should be 33% from the in-game data I think.

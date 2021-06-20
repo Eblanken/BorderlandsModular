@@ -4,4 +4,8 @@
 		2). We could use the normals to get higher resolution geometry information? Seems pretty simple: https://blenderartists.org/t/normal-map-to-mesh/699687 but honestly doing everything in parametric cad could be easier.
 	b). The "color" textures are grey with some of the detail from the in-game view and have single highly colored pixels, could this be encoded information for locating things?
 	c). The "light" textures appear to have the in-game details (cracks, hand-drawn details) but are colored strangly, what do the color channels mean??
-	d). The manufacturer materials are captured in seperate U-model files but I cannot export them, is this just setting the base color and some reflection information?
+	d). The "Mask" textures designate which of the 3 colors per manufacturer per material are used where I think
+		1). See https://borderlands.fandom.com/wiki/Material_Grade for more details
+		2). See manufacturer materials in UModel (preview does not work but export does) for the exact values
+	e). The manufacturer materials are captured in seperate U-model files:
+		- Need to investigate that format further, color vectors are specified as proportional?
