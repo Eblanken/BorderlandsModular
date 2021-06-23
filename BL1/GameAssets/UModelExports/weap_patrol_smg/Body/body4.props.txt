@@ -1,0 +1,40 @@
+LODInfo[1] =
+{
+    LODInfo[0] =
+    {
+        DisplayFactor = 0
+        LODHysteresis = 0.02
+        LODMaterialMap[0] = {}
+        bEnableShadowCasting[1] = { true }
+        BonesToRemove[0] = {}
+        BonesToPrioritize[0] = {}
+        SourceImportFilename = ""
+    }
+}
+Sockets[2] =
+{
+    Sockets[0] =
+    {
+        SocketName = muzzle_04
+        BoneName = b_muzzle_flash_4
+        RelativeLocation = { X=0, Y=0, Z=0 }
+        RelativeRotation = { Yaw=-16384, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+    Sockets[1] =
+    {
+        SocketName = EyeSocket2
+        BoneName = b_body
+        RelativeLocation = { X=0, Y=57.5, Z=15.6 }
+        RelativeRotation = { Yaw=-16384, Pitch=0, Roll=0 }
+        RelativeScale = { X=1, Y=1, Z=1 }
+    }
+}
+bHasVertexColors = false
+EnableTwistBoneFixers = true
+EnableClavicleFixer = true
+Skeleton = None
+Materials[1] =
+{
+    Materials[0] = MaterialInstanceConstant'weap_patrol_smg.Textures.mat_patrol_smg_INST'
+}
