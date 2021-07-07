@@ -12,5 +12,7 @@ newmtl MI_SMG_Dahl_Common
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ke C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\SMGs\Dahl\_Shared\Model\Textures\T_SM_DAL_Emissive.tga
-	norm C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\SMGs\Dahl\_Shared\Model\Textures\T_SM_DAL_N.tga
+	map_Ka T_SM_DAL_C.tga
+	map_Kd T_SM_DAL_C.tga
+	map_Ke T_SM_DAL_E.tga
+	norm T_SM_DAL_N.tga

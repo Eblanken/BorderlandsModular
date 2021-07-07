@@ -12,7 +12,7 @@ newmtl MI_AR_Jak_Common
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\_Shared\Textures\Surfaces\T_Wood_Rough_01_D.tga
-	map_Kd C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\_Shared\Textures\Surfaces\T_Wood_Rough_01_D.tga
-	map_Ke C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\AssaultRifles\Jakobs\_Shared\Model\Textures\T_AR_JAK_E.tga
-	norm C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\AssaultRifles\Jakobs\_Shared\Model\Textures\T_AR_JAK_N.tga
+	map_Ka T_AR_JAK_C.tga
+	map_Kd T_AR_JAK_C.tga
+	map_Ke T_AR_JAK_E.tga
+	norm T_AR_JAK_N.tga

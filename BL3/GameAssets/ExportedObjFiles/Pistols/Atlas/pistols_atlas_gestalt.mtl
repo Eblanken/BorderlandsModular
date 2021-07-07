@@ -12,7 +12,7 @@ newmtl MI_PS_ATL_Common
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\LevelArt\Environments\_Global\Decals\Splatter_Blood\Model\Textures\T_Splatter_Blood_D_V5.tga
-	map_Kd C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\LevelArt\Environments\_Global\Decals\Splatter_Blood\Model\Textures\T_Splatter_Blood_D_V5.tga
-	map_Ke C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\Pistols\Atlas\_Shared\Model\Textures\T_PS_ATL_E.tga
-	norm C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\Pistols\Atlas\_Shared\Model\Textures\T_PS_ATL_N.tga
+	map_Ka T_PS_ATL_C.tga
+	map_Kd T_PS_ATL_C.tga
+	map_Ke T_PS_ATL_E.tga
+	norm T_PS_ATL_N.tga

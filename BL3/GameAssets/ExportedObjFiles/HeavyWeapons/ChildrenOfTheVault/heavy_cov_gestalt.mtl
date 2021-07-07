@@ -12,10 +12,10 @@ newmtl MI_HW_COV_Common
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\_Shared\Textures\Surfaces\T_PaintedRustyMetal_01_D.tga
-	map_Kd C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\_Shared\Textures\Surfaces\T_PaintedRustyMetal_01_D.tga
-	map_Ke C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\HeavyWeapons\ChildrenOfTheVault\_Shared\Model\Textures\T_HW_COV_E.tga
-	norm C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\HeavyWeapons\ChildrenOfTheVault\_Shared\Model\Textures\T_HW_COV_N.tga
+	map_Ka T_HW_COV_C.tga
+	map_Kd T_HW_COV_C.tga
+	map_Ke T_HW_COV_E.tga
+	norm T_HW_COV_N.tga
 
 newmtl MI_HW_COV_Common_Glass
 	Ns 10.0000
@@ -28,6 +28,6 @@ newmtl MI_HW_COV_Common_Glass
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Common\Textures\BaseMaterials\Glass\T_Glass01_D.tga
-	map_Kd C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Common\Textures\BaseMaterials\Glass\T_Glass01_D.tga
-	norm C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\HeavyWeapons\ChildrenOfTheVault\_Shared\Model\Textures\T_HW_COV_N.tga
+	map_Ka T_Glass01_D.tga
+	map_Kd T_Glass01_D.tga
+	norm T_HW_COV_N.tga

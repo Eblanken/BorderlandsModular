@@ -12,7 +12,7 @@ newmtl MI_Eridian_GunGun
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\HeavyWeapons\Eridian\_Shared\Model\Textures\T_ERI_HW_GUNGUN_D.tga
-	map_Kd C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\HeavyWeapons\Eridian\_Shared\Model\Textures\T_ERI_HW_GUNGUN_D.tga
-	map_Ke C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\HeavyWeapons\Eridian\_Shared\Model\Textures\T_ERI_HW_GUNGUN_EMISS.tga
-	norm C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\HeavyWeapons\Eridian\_Shared\Model\Textures\T_ERI_HW_GUNGUN_N.tga
+	map_Ka T_ERI_HW_GUNGUN_D.tga
+	map_Kd T_ERI_HW_GUNGUN_D.tga
+	map_Ke T_ERI_HW_GUNGUN_E.tga
+	norm T_ERI_HW_GUNGUN_N.tga
