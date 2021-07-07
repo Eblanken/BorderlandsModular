@@ -1,0 +1,68 @@
+
+******** Loading object StaticMesh4'SM_FX_Artifact_Ring.SM_FX_Artifact_Ring' ********
+
+ERROR: TArray: index 0 is out of range (0)
+ConvertLod: lod=0 <- UStaticMesh4::ConvertMesh <- UStaticMesh4::Serialize <- LoadObject: StaticMesh4'SM_FX_Artifact_Ring.SM_FX_Artifact_Ring', pos=4BBA, ver=516/0 (unversioned), game=border3 <- UObject::EndLoad <- LoadWholePackage: /Game/Gear/Artifacts/Effects/Meshes/SM_FX_Artifact_Ring.uasset <- ExportPackages <- UIMenuItem::HandleCommand <- UIMenu::Popup <- UIBaseDialog::WndProc10804
+
+
+
+******** Loading object Texture2D'T_FX_Shock_Tiling_04.T_FX_Shock_Tiling_04' ********
+
+ERROR: assertion failed: !(BulkDataFlags & BULKDATA_Size64Bit)
+
+Bulk4 <- FByteBulkData::SerializeHeader <- FByteBulkData::Serialize <- FTexture2DMipMap::Serialize4 <- TArray::Serialize: 2/10 <- FTexturePlatformData<< <- UTexture2D::Serialize4 <- UTexture2D::Serialize <- LoadObject: Texture2D'T_FX_Shock_Tiling_04.T_FX_Shock_Tiling_04', pos=4BB, ver=516/0 (unversioned), game=ue4.20 <- UObject::EndLoad <- LoadWholePackage: /Game/Gear/Weapons/_Shared/_Design/_Manufacturers/_ETech/Effects/Materials/M_FX_BFGBall.uasset <- ExportPackages <- UIMenuItem::HandleCommand <- UIMenu::Popup <- UIBaseDialog::WndProc <- UIBaseDialog::CustomMessageLoop <- UIBaseDialog::ShowDialog: modal=1, title="Choose a package to open" <- CUmodelApp::ShowPackageUI <- Main: umodel_build=1556
+
+
+******** Loading object Texture2D'T_AR_Vlad_N.T_AR_Vlad_N' ********
+
+ERROR: Serializing behind stopper (175+80000 > D87)
+FPakFile::Serialize: file=/Game/Gear/Weapons/AssaultRifles/Vladof/_Shared/Model/Textures/T_AR_Vlad_N.uexp <- FString<< <- FTexture2DMipMap::Serialize4 <- TArray::Serialize: 1/13 <- FTexturePlatformData<< <- UTexture2D::Serialize4 <- UTexture2D::Serialize <- LoadObject: Texture2D'T_AR_Vlad_N.T_AR_Vlad_N', pos=538, ver=516/0 (unversioned), game=ue4.20 <- UObject::EndLoad <- LoadWholePackage: /Game/Gear/Weapons/AssaultRifles/Atlas/_Shared/Effects/Materials/MI_ATL_AR_Scope_03_Glass_Back.uasset <- ExportPackages <- UIMenuItem::HandleCommand <- UIMenu::Popup <- UIBaseDialog::WndProc <- UIBaseDialog::CustomMessageLoop <- UIBaseDialog::ShowDialog: modal=1, title="Choose a package to open" <- CUmodelApp::ShowPackageUI <- Main: umodel_build=1556
+
+
+******** Loading object Texture2D'T_SR_VLA_C.T_SR_VLA_C' ********
+
+ERROR: Serializing behind stopper (176+40000 > 820)
+FPakFile::Serialize: file=/Game/Gear/Weapons/SniperRifles/Vladof/_Shared/Model/Textures/T_SR_VLA_C.uexp <- FString<< <- FTexture2DMipMap::Serialize4 <- TArray::Serialize: 1/13 <- FTexturePlatformData<< <- UTexture2D::Serialize4 <- UTexture2D::Serialize <- LoadObject: Texture2D'T_SR_VLA_C.T_SR_VLA_C', pos=52A, ver=516/0 (unversioned), game=ue4.20 <- UObject::EndLoad <- LoadWholePackage: /Game/Gear/Weapons/SniperRifles/Vladof/_Shared/Model/Materials/Legendary/MI_SR_Vla_Legendary_03_A.uasset <- CUmodelApp::ShowPackageUI <- CUmodelApp::ProcessKey: key=6F, down=1 <- VisualizerLoop <- Main: umodel_build=1556
+
+
+******** Loading object SkeletalMesh4'SK_SR_VLA.SK_SR_VLA' ********
+
+ERROR: Serializing behind stopper (496411+4C59400 > 716266)
+FPakFile::Serialize: file=/Game/Gear/Weapons/SniperRifles/Vladof/_Shared/Model/Rig/SK_SR_VLA.uexp <- TArray::SerializeSimple <- SerializeBulkArray <- FMultisizeIndexContainer<< <- FStaticLODModel4::SerializeRenderItem_Legacy <- FStaticLODModel4::SerializeRenderItem <- TArray::Serialize: 0/3 <- USkeletalMesh4::Serialize <- LoadObject: SkeletalMesh4'SK_SR_VLA.SK_SR_VLA', pos=49839D, ver=516/0 (unversioned), game=ue4.20 <- UObject::EndLoad <- LoadWholePackage: /Game/Gear/Weapons/SniperRifles/Vladof/_Shared/Model/Rig/SK_SR_VLA.uasset <- CUmodelApp::ShowPackageUI <- Main: umodel_build=1556
+
+
+******** Loading object Texture2D'T_SR_VLA_C.T_SR_VLA_C' ********
+
+ERROR: Serializing behind stopper (176+40000 > 820)
+FPakFile::Serialize: file=/Game/Gear/Weapons/SniperRifles/Vladof/_Shared/Model/Textures/T_SR_VLA_C.uexp <- FString<< <- FTexture2DMipMap::Serialize4 <- TArray::Serialize: 1/13 <- FTexturePlatformData<< <- UTexture2D::Serialize4 <- UTexture2D::Serialize <- LoadObject: Texture2D'T_SR_VLA_C.T_SR_VLA_C', pos=52A, ver=516/0 (unversioned), game=ue4.20 <- UObject::EndLoad <- LoadWholePackage: /Game/Gear/Weapons/SniperRifles/Vladof/_Shared/Model/Materials/Legendary/MI_SR_Vla_Legendary_03_A.uasset <- CUmodelApp::ShowPackageUI <- Main: umodel_build=1556
+
+
+******** Loading object Texture2D'T_AR_JAK_C.T_AR_JAK_C' ********
+
+ERROR: Serializing behind stopper (176+40000 > 820)
+FPakFile::Serialize: file=/Game/Gear/Weapons/AssaultRifles/Jakobs/_Shared/Model/Textures/T_AR_JAK_C.uexp <- FString<< <- FTexture2DMipMap::Serialize4 <- TArray::Serialize: 1/13 <- FTexturePlatformData<< <- UTexture2D::Serialize4 <- UTexture2D::Serialize <- LoadObject: Texture2D'T_AR_JAK_C.T_AR_JAK_C', pos=52B, ver=516/0 (unversioned), game=ue4.20 <- UObject::EndLoad <- LoadWholePackage: /Game/Gear/Weapons/AssaultRifles/Jakobs/_Shared/Model/Rig/SK_AR_JAK.uasset <- CUmodelApp::ShowPackageUI <- CUmodelApp::ProcessKey: key=6F, down=1 <- VisualizerLoop <- Main: umodel_build=1556
+
+
+******** Loading object Texture2D'T_HW_ATL_C.T_HW_ATL_C' ********
+
+ERROR: Serializing behind stopper (176+80000 > D70)
+FPakFile::Serialize: file=/Game/Gear/Weapons/HeavyWeapons/ATL/_Shared/Model/Textures/T_HW_ATL_C.uexp <- FString<< <- FTexture2DMipMap::Serialize4 <- TArray::Serialize: 1/13 <- FTexturePlatformData<< <- UTexture2D::Serialize4 <- UTexture2D::Serialize <- LoadObject: Texture2D'T_HW_ATL_C.T_HW_ATL_C', pos=527, ver=516/0 (unversioned), game=ue4.20 <- UObject::EndLoad <- LoadWholePackage: /Game/Gear/Weapons/HeavyWeapons/ATL/_Shared/Model/Rig/SK_HW_ATL.uasset <- CUmodelApp::ShowPackageUI <- Main: umodel_build=1556
+
+
+******** Loading object Texture2D'T_AR_ATL_C.T_AR_ATL_C' ********
+
+ERROR: Serializing behind stopper (176+40000 > 820)
+FPakFile::Serialize: file=/Game/Gear/Weapons/AssaultRifles/Atlas/_Shared/Model/Textures/T_AR_ATL_C.uexp <- FString<< <- FTexture2DMipMap::Serialize4 <- TArray::Serialize: 1/13 <- FTexturePlatformData<< <- UTexture2D::Serialize4 <- UTexture2D::Serialize <- LoadObject: Texture2D'T_AR_ATL_C.T_AR_ATL_C', pos=52A, ver=516/0 (unversioned), game=ue4.20 <- UObject::EndLoad <- LoadWholePackage: /Game/Gear/Weapons/AssaultRifles/Atlas/_Shared/Model/Rig/SK_AR_ATL.uasset <- CUmodelApp::ShowPackageUI <- CUmodelApp::ProcessKey: key=6F, down=1 <- VisualizerLoop <- Main: umodel_build=1556
+
+
+******** Loading object Texture2D'T_HW_ATL_C.T_HW_ATL_C' ********
+
+ERROR: Serializing behind stopper (176+80000 > D70)
+FPakFile::Serialize: file=/Game/Gear/Weapons/HeavyWeapons/ATL/_Shared/Model/Textures/T_HW_ATL_C.uexp <- FString<< <- FTexture2DMipMap::Serialize4 <- TArray::Serialize: 1/13 <- FTexturePlatformData<< <- UTexture2D::Serialize4 <- UTexture2D::Serialize <- LoadObject: Texture2D'T_HW_ATL_C.T_HW_ATL_C', pos=527, ver=516/0 (unversioned), game=ue4.20 <- UObject::EndLoad <- LoadWholePackage: /Game/Gear/Weapons/HeavyWeapons/ATL/_Shared/Model/Rig/SK_HW_ATL.uasset <- CUmodelApp::ShowPackageUI <- CUmodelApp::ProcessKey: key=6F, down=1 <- VisualizerLoop <- Main: umodel_build=1556
+
+
+******** Loading object Texture2D'T_PS_ATL_C.T_PS_ATL_C' ********
+
+ERROR: Serializing behind stopper (176+20000 > D52)
+FPakFile::Serialize: file=/Game/Gear/Weapons/Pistols/Atlas/_Shared/Model/Textures/T_PS_ATL_C.uexp <- FString<< <- FTexture2DMipMap::Serialize4 <- TArray::Serialize: 1/12 <- FTexturePlatformData<< <- UTexture2D::Serialize4 <- UTexture2D::Serialize <- LoadObject: Texture2D'T_PS_ATL_C.T_PS_ATL_C', pos=524, ver=516/0 (unversioned), game=ue4.20 <- UObject::EndLoad <- LoadWholePackage: /Game/Gear/Weapons/Pistols/Atlas/_Shared/Model/Rig/SK_PS_ATL.uasset <- CUmodelApp::ShowPackageUI <- Main: umodel_build=1556
+

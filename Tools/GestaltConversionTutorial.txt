@@ -1,0 +1,3 @@
+1). Follow the "ExportingObjects" tutorial to get the gestalt as an .obj file with textures intact.
+
+2).  
