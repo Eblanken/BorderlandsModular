@@ -1,3 +1,11 @@
 1). Follow the "ExportingObjects" tutorial to get the gestalt as an .obj file with textures intact.
 
-2).  
+2). Open blender and create a new project file in the directory of the target gestalt
+
+3). TODO PART SEPERATION GUIDE
+
+4). Once the parts are seperated TODO
+
+	a). BL2: https://www.youtube.com/watch?v=RvE9_YDBxJQ&list=PLZmy-OyMDzN77PE4ErTTGoq8ilAqlrP28
+
+	b). BL3: https://www.youtube.com/watch?v=3T2UZUYPzEc&list=PLKfeNV4rZYhs6vj8LgXwkmZ5_avWugAyC

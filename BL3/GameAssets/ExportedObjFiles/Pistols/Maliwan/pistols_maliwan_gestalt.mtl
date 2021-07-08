@@ -12,7 +12,6 @@ newmtl MI_PS_MAL_Common
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\_Shared\Textures\Emissive\T_Emissive_Mal_D.tga
-	map_Kd C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\_Shared\Textures\Emissive\T_Emissive_Mal_D.tga
-	map_Ke C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\_Shared\Textures\Emissive\T_Emissive_Mal_D.tga
-	norm C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\Pistols\Maliwan\_Shared\Model\Texture\T_PS_MAL_N.tga
+	map_Ka T_PS_MAL_C.tga
+	map_Kd T_PS_MAL_C.tga
+	norm T_PS_MAL_N.tga

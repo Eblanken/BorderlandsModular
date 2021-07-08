@@ -12,7 +12,7 @@ newmtl MI_AR_Tor_Common
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\_Shared\Textures\Surfaces\T_Leather_01_D.tga
-	map_Kd C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\_Shared\Textures\Surfaces\T_Leather_01_D.tga
-	map_Ke C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\AssaultRifles\Torgue\_Shared\Model\Texture\T_AR_TOR_E.tga
-	norm C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\AssaultRifles\Torgue\_Shared\Model\Texture\T_AR_TOR_N.tga
+	map_Ka T_AR_TOR_C.tga
+	map_Kd T_AR_TOR_C.tga
+	map_Ke T_AR_TOR_E.tga
+	norm T_AR_TOR_N.tga

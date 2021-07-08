@@ -22,7 +22,7 @@ newmtl MI_HW_Vla_Common
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\_Shared\Textures\Surfaces\T_Wood_Rough_01_D.tga
-	map_Kd C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\_Shared\Textures\Surfaces\T_Wood_Rough_01_D.tga
-	map_Ke C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\HeavyWeapons\Vladof\_Shared\Model\Textures\T_HW_VLA_E.tga
-	norm C:\Work\BorderlandsModular\BL3\GameAssets\UModelExportsOut\Game\Gear\Weapons\HeavyWeapons\Vladof\_Shared\Model\Textures\T_HW_VLA_N.tga
+	map_Ka T_HW_VLA_C.tga
+	map_Kd T_HW_VLA_C.tga
+	map_Ke T_HW_VLA_E.tga
+	norm T_HW_VLA_N.tga
