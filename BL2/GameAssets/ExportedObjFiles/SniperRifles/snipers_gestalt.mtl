@@ -12,3 +12,7 @@ newmtl material_0
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
+	map_Ka Weap_SniperRifle_SharedChannel.tga
+	map_Kd Weap_SniperRifle_SharedChannel.tga
+	map_Ke Weap_SniperRifle_SharedChannel.tga
+	norm Weap_SniperRifle_Nrm.tga

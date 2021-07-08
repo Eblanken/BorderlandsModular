@@ -1,0 +1,6 @@
+Diffuse=Weap_AssaultSubSniper_Comp
+Normal=Weap_AssaultRifle_Nrm
+Emissive=Weap_AssaultRifle_Nrm
+Cube=GlossyC
+Other[0]=Weap_AssaultRifle_Comp
+Other[1]=Logo_VladofColor

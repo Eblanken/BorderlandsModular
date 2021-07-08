@@ -1,0 +1,194 @@
+Parent = Material3'Common_Materials.Weapons.Master_Gun'
+ScalarParameterValues[5] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = 
+        ParameterValue = 0.5
+        ParameterName = p_HighlightsIntensity
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = 
+        ParameterValue = 2
+        ParameterName = p_ShadowsIntensity
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = 
+        ParameterValue = -0.0068
+        ParameterName = p_DecalRotate
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = 
+        ParameterValue = 0
+        ParameterName = p_UseFullColorDecal
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = 
+        ParameterValue = 1
+        ParameterName = p_ReplaceDecal
+    }
+}
+TextureParameterValues[6] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = 
+        ParameterValue = Texture2D'Weap_Shotguns.Tex.Weap_Shotgun_Comp'
+        ParameterName = p_Masks
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = 
+        ParameterValue = Texture2D'Common_GunMaterials.CompTextures.Weap_LauncherShotgunPistol_Comp'
+        ParameterName = p_Diffuse
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = 
+        ParameterValue = Texture2D'Weap_Shotguns.Tex.Weap_Shotgun_Nor'
+        ParameterName = p_NormalScopesEmissive
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = 
+        ParameterValue = Texture2D'Common_GunMaterials.Env.GlossyC'
+        ParameterName = P_SimpleReflect
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = 
+        ParameterValue = Texture2D'Common_GunMaterials.Logos.grundge_decals_2'
+        ParameterName = p_Decal
+    }
+    TextureParameterValues[5] =
+    {
+        ParameterInfo = 
+        ParameterValue = Texture2D'Common_GunMaterials.Patterns.Pattern_BanditRare'
+        ParameterName = p_Pattern
+    }
+}
+VectorParameterValues[18] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=0.605734, G=0.714622, B=0.745829, A=1 }
+        ParameterName = p_AColorHilight
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=0.0604373, G=0.0762497, B=0.110493, A=1 }
+        ParameterName = p_AColorMidtone
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=0.257592, G=0.367452, B=0.480645, A=1 }
+        ParameterName = p_AColorShadow
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=1.66051, G=1.0829, B=0.21896, A=1 }
+        ParameterName = p_BColorHilight
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=1.41697, G=0.959986, B=0.563688, A=1 }
+        ParameterName = p_BColorMidtone
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=0.215462, G=0.0463977, B=0.0248735, A=1 }
+        ParameterName = p_BColorShadow
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=1.12375, G=1.31883, B=1.67588, A=1 }
+        ParameterName = p_CColorHilight
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=2.1947, G=2.28397, B=2.35053, A=1 }
+        ParameterName = p_CColorMidtone
+    }
+    VectorParameterValues[8] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=0.236514, G=0.392128, B=0.823174, A=1 }
+        ParameterName = p_CColorShadow
+    }
+    VectorParameterValues[9] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=2.74225, G=2.03301, B=1.303, A=1 }
+        ParameterName = p_ReflectColor
+    }
+    VectorParameterValues[10] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=0.5, G=4, B=0.8, A=0 }
+        ParameterName = p_ReflectionChannelScale
+    }
+    VectorParameterValues[11] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=2.2149, G=7.24, B=0.5618, A=0.5441 }
+        ParameterName = p_DecalScalePosition
+    }
+    VectorParameterValues[12] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=2.10457, G=0, B=0, A=1 }
+        ParameterName = p_DecalColor
+    }
+    VectorParameterValues[13] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=2.68, G=4, B=1, A=1 }
+        ParameterName = p_PatternScalePosition
+    }
+    VectorParameterValues[14] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=0.218057, G=0.299586, B=0.464071, A=1 }
+        ParameterName = p_DColor
+    }
+    VectorParameterValues[15] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=1, G=1, B=0, A=0 }
+        ParameterName = p_DecalChannel
+    }
+    VectorParameterValues[16] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=0.8, G=0.3, B=0, A=0 }
+        ParameterName = p_PatternChannelScale
+    }
+    VectorParameterValues[17] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=1, G=1, B=1, A=1 }
+        ParameterName = p_PatternColor
+    }
+}
+BasePropertyOverrides = 
+StaticParameters = 
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

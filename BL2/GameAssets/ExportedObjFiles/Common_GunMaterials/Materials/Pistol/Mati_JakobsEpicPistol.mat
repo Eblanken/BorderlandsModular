@@ -1,0 +1,10 @@
+Diffuse=Weap_LauncherShotgunPistol_Comp
+Normal=Weap_Pistols_Nrm
+Emissive=Weap_Pistols_Nrm
+Cube=Gold
+Other[0]=Weap_Pistols_Comp
+Other[1]=Pattern_HexScrollGrunge_Comp
+Other[2]=Weap_AssaultRifle_Comp
+Other[3]=Weap_AssaultSubSniper_Comp
+Other[4]=Weap_AssaultRifle_Nrm
+Other[5]=Pattern_JakobsEpic_SpaltedMaple

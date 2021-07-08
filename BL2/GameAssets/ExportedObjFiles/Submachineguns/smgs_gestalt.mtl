@@ -12,3 +12,7 @@ newmtl material_0
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
+	map_Ka Weap_SMG_Mask.tga
+	map_Kd Weap_SMG_Mask.tga
+	map_Ke Weap_SMG_Mask.tga
+	norm Weap_SMG_Nrm.tga

@@ -1,0 +1,42 @@
+Parent = MaterialInstanceConstant'Common_GunMaterials.MasterMaterials.Bandit.MasterMati_BanditCommon'
+ScalarParameterValues[0] = {}
+TextureParameterValues[2] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = 
+        ParameterValue = Texture2D'Weap_AssaultRifles.Tex.Weap_AssaultRifle_Comp'
+        ParameterName = p_Masks
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = 
+        ParameterValue = Texture2D'Weap_AssaultRifles.Tex.Weap_AssaultRifle_Nrm'
+        ParameterName = p_NormalScopesEmissive
+    }
+}
+VectorParameterValues[2] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=10, G=10, B=0.9552, A=0.7031 }
+        ParameterName = p_DecalScalePosition
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=8, G=8, B=24.62, A=3.4371 }
+        ParameterName = p_PatternScalePosition
+    }
+}
+BasePropertyOverrides = 
+StaticParameters = 
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

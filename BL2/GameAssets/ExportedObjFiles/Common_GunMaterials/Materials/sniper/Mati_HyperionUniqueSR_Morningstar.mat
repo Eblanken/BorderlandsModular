@@ -1,0 +1,10 @@
+Diffuse=Weap_AssaultSubSniper_Comp
+Normal=Weap_SniperRifle_Nrm
+Emissive=Weap_SniperRifle_Nrm
+Cube=GlossyB
+Other[0]=Weap_SniperRifle_Comp
+Other[1]=Pattern_JacobsCommonMetal
+Other[2]=Pattern_VerticalTriquetra
+Other[3]=Weap_AssaultRifle_Comp
+Other[4]=Weap_AssaultRifle_Nrm
+Other[5]=Pattern_HyperionStripeUncommon

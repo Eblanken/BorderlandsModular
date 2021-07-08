@@ -1,0 +1,5 @@
+1). In the exported files:
+	a). *_Comp.tga files contain two corresponding low resolution halves, top is TODO WHAT IS IT? while bottom is a mask for the textures applied (wood, camo, metal, etc.)
+	b). *_Nrm is the normal map (high resolution)
+	c). In the "Common_GunMaterials\CompTextures" the "Weap_XYZ.tga" files have high resolution textures where each channel corresponds to one of three weapon types (ex. under AssaultSubSniper the red channel is for assault rifles, green is for SMGs, blue is for snipers) that seem to be a mask on top of everything to create the hand-drawn look
+

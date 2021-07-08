@@ -1,0 +1,10 @@
+Diffuse=Weap_AssaultSubSniper_Comp
+Normal=Weap_SMG_Nrm
+Emissive=Weap_SMG_Nrm
+Cube=GlossyC
+Other[0]=Weap_SMG_Comp
+Other[1]=Logo_Bandit
+Other[2]=Pattern_BanditUncommon
+Other[3]=Weap_AssaultRifle_Comp
+Other[4]=Weap_AssaultRifle_Nrm
+Other[5]=Pattern_HyperionStripeUncommon

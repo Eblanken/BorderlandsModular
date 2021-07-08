@@ -1,0 +1,30 @@
+Parent = MaterialInstanceConstant'Common_GunMaterials.MasterMaterials.Bandit.MasterMati_BanditUncommon'
+ScalarParameterValues[1] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = 
+        ParameterValue = 0.0658
+        ParameterName = p_DecalRotate
+    }
+}
+TextureParameterValues[0] = {}
+VectorParameterValues[1] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=5, G=12.25, B=0.5579, A=0.489 }
+        ParameterName = p_DecalScalePosition
+    }
+}
+BasePropertyOverrides = 
+StaticParameters = 
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

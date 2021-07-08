@@ -1,0 +1,12 @@
+Diffuse=Weap_AssaultSubSniper_Comp
+Normal=Weap_SMG_Nrm
+Emissive=Weap_SMG_Nrm
+Cube=GlossyC
+Other[0]=Weap_SMG_Comp
+Other[1]=Pattern_HyperionStripeUncommon
+Other[2]=Pattern_MaliwanRare
+Other[3]=Weap_Launchers_Comp
+Other[4]=Weap_LauncherShotgunPistol_Comp
+Other[5]=Weap_Launchers_Nrm
+Other[6]=Pattern_MaliwanLegendaryRL
+Other[7]=Pattern_HexScrollGrunge_Comp

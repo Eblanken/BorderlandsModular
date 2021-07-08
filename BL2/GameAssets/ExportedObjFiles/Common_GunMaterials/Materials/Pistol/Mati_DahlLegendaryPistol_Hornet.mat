@@ -1,0 +1,6 @@
+Diffuse=Weap_LauncherShotgunPistol_Comp
+Normal=Weap_Pistols_Nrm
+Emissive=Weap_Pistols_Nrm
+Cube=GlossyB
+Other[0]=Weap_Pistols_Comp
+Other[1]=Pattern_Hornet

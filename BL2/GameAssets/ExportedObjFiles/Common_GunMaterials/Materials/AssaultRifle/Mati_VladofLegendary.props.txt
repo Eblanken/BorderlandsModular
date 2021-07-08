@@ -1,0 +1,96 @@
+Parent = MaterialInstanceConstant'Common_GunMaterials.MasterMaterials.Vladof.MasterMati_VladofLegendary'
+ScalarParameterValues[0] = {}
+TextureParameterValues[2] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = 
+        ParameterValue = Texture2D'Common_GunMaterials.Logos.FacePaint_SirenBanditCommon'
+        ParameterName = p_Decal
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = 
+        ParameterValue = Texture2D'Common_GunMaterials.Patterns.Pattern_BlueSpectrum'
+        ParameterName = p_Pattern
+    }
+}
+VectorParameterValues[11] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=0.353578, G=0.0441541, B=0.0273606, A=1 }
+        ParameterName = p_AColorHilight
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=0.0344917, G=0.0417075, B=0.0552466, A=1 }
+        ParameterName = p_AColorMidtone
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=1.43953, G=1.55771, B=1.98894, A=1 }
+        ParameterName = p_BColorHilight
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=0.0520237, G=0.244391, B=0.392251, A=1 }
+        ParameterName = p_BColorMidtone
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=0.694526, G=0.518524, B=1, A=1 }
+        ParameterName = p_BColorShadow
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=0.102615, G=0.970775, B=1.54698, A=1 }
+        ParameterName = p_CColorHilight
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=0.143404, G=0.243874, B=1.23972, A=1 }
+        ParameterName = p_CColorMidtone
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=0.270708, G=0.0239391, B=0.0466237, A=1 }
+        ParameterName = p_CColorShadow
+    }
+    VectorParameterValues[8] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=1.49344, G=0.0315038, B=0, A=1 }
+        ParameterName = p_DecalColor
+    }
+    VectorParameterValues[9] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=-1.2, G=30, B=0.3043, A=0.03 }
+        ParameterName = p_PatternScalePosition
+    }
+    VectorParameterValues[10] =
+    {
+        ParameterInfo = 
+        ParameterValue = { R=0.9, G=1, B=0.5, A=0 }
+        ParameterName = p_PatternChannelScale
+    }
+}
+BasePropertyOverrides = 
+StaticParameters = 
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

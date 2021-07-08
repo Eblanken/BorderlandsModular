@@ -1,0 +1,10 @@
+Diffuse=Weap_LauncherShotgunPistol_Comp
+Normal=Weap_Pistols_Nrm
+Emissive=Weap_Pistols_Nrm
+Cube=Chrome
+Other[0]=Weap_Pistols_Comp
+Other[1]=Weap_AssaultRifle_Comp
+Other[2]=Weap_AssaultSubSniper_Comp
+Other[3]=Weap_AssaultRifle_Nrm
+Other[4]=Logo_TorgueColor
+Other[5]=Pattern_TorgueEpic

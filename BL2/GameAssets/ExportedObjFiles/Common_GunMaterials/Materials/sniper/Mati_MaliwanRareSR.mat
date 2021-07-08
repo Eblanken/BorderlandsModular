@@ -1,0 +1,9 @@
+Diffuse=Weap_AssaultSubSniper_Comp
+Normal=Weap_SniperRifle_Nrm
+Emissive=Weap_SniperRifle_Nrm
+Cube=GlossyA
+Other[0]=Weap_SniperRifle_Comp
+Other[1]=Weap_SMG_Comp
+Other[2]=Weap_SMG_Nrm
+Other[3]=Pattern_MaliwanRare
+Other[4]=Pattern_HexScrollGrunge_Comp
