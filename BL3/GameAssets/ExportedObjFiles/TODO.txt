@@ -1,0 +1,39 @@
+AssaultRifles:
+	- Atlas:		No gestalt file created
+	- ChildrenOfTheVault:	No gestalt file created
+	- Dahl:			No gestalt file created
+	- Jakobs:		Done
+	- Torgue:		No gestalt file created
+	- Vladof:		No gestalt file created
+HeavyWeapons:
+	- Atlas:		No gestalt file created
+	- ChildrenOfTheVault:  	No gestalt file created
+	- Eridian: 		Done!
+	- Torgue: 		No gestalt file created
+	- Vladof: 		Files were seperated the old way but otherwise very close
+Pistols:
+	- Atlas:		No gestalt files created
+	- ChildrenOfTheVault:	No gestalt files created
+	- Dahl:			Gestalt file created, multiple intersecting parts
+	- Jakobs:		Done!
+	- Maliwan:		No gestalt files created
+	- Tediore:		No gestalt files created
+	- Torque: 		Gestalt file created, need to start
+	- Vladof: 		Finished other than seperating mesh for underbarrel zip rockets small/large magazine 
+Shotguns:
+	- Hyperion:		No gestalt files created
+	- Jakobs:		Almost done, lots of stuff got mixed up and am still seperating it out
+	- Maliwan:		No gestalt files created
+	- Tediore:		No gestalt files created
+	- Torgue: 		Done! There are two of what appear to be shells buried in the gun which are unsorted but may be animation aids
+SniperRifles:
+	- Dahl:			Almost done! There are three items I was unable to associate to anything yet
+	- Hyperion:		No gestalt files created
+	- Jakobs:		Almost done! Two strange rings that look like they are part of scope 3 and the trigges need to be sorted.
+	- Maliwan:		Created gestalt, the grips are all merged together
+	- Vladof:		No gestalt files created
+Submachineguns:
+	- Dahl:			No gestalt files created
+	- Hyperion:		No gestalt files created
+	- Maliwan:		No gestalt files created
+	- Tediore:		No gestalt files created
