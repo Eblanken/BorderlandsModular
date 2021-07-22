@@ -1,14 +1,14 @@
 AssaultRifles:
 	- Atlas:		No gestalt file created
 	- ChildrenOfTheVault:	No gestalt file created
-	- Dahl:			No gestalt file created
-	- Jakobs:		Done
-	- Torgue:		No gestalt file created
+	- Dahl:			Done!
+	- Jakobs:		Done! Strange underbarrel tube in barrel accessories may need to be resorted.
+	- Torgue:		Created gestalt file.
 	- Vladof:		No gestalt file created
 HeavyWeapons:
 	- Atlas:		No gestalt file created
 	- ChildrenOfTheVault:  	No gestalt file created
-	- Eridian: 		Done!
+	- Eridian: 		Done!s
 	- Torgue: 		No gestalt file created
 	- Vladof: 		Files were seperated the old way but otherwise very close
 Pistols:
@@ -33,7 +33,7 @@ SniperRifles:
 	- Maliwan:		Created gestalt, the grips are all merged together
 	- Vladof:		No gestalt files created
 Submachineguns:
-	- Dahl:			No gestalt files created
+	- Dahl:			Done!
 	- Hyperion:		No gestalt files created
 	- Maliwan:		No gestalt files created
 	- Tediore:		No gestalt files created
