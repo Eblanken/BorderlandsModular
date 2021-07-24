@@ -1,6 +1,6 @@
 AssaultRifles:
 	- Atlas:		No gestalt file created
-	- ChildrenOfTheVault:	No gestalt file created
+	- ChildrenOfTheVault:	Done!
 	- Dahl:			Done!
 	- Jakobs:		Done! Strange underbarrel tube in barrel accessories may need to be resorted.
 	- Torgue:		Created gestalt file.
@@ -31,9 +31,9 @@ SniperRifles:
 	- Hyperion:		No gestalt files created
 	- Jakobs:		Almost done! Two strange rings that look like they are part of scope 3 and the trigges need to be sorted.
 	- Maliwan:		Created gestalt, the grips are all merged together
-	- Vladof:		No gestalt files created
+	- Vladof:		Done!
 Submachineguns:
 	- Dahl:			Done!
 	- Hyperion:		No gestalt files created
-	- Maliwan:		No gestalt files created
+	- Maliwan:		Almost done but lots of issues. Many overlayed vertices and the melee attatchment disappeared.
 	- Tediore:		No gestalt files created
