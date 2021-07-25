@@ -3,8 +3,8 @@ AssaultRifles:
 	- ChildrenOfTheVault:	Done!
 	- Dahl:			Done!
 	- Jakobs:		Done! Strange underbarrel tube in barrel accessories may need to be resorted.
-	- Torgue:		Created gestalt file.
-	- Vladof:		No gestalt file created
+	- Torgue:		Done!
+	- Vladof:		Done!
 HeavyWeapons:
 	- Atlas:		No gestalt file created
 	- ChildrenOfTheVault:  	No gestalt file created
