@@ -1,5 +1,5 @@
 AssaultRifles:
-	- Atlas:		No gestalt file created
+	- Atlas:		Done!
 	- ChildrenOfTheVault:	Done!
 	- Dahl:			Done!
 	- Jakobs:		Done! Strange underbarrel tube in barrel accessories may need to be resorted.
@@ -8,11 +8,11 @@ AssaultRifles:
 HeavyWeapons:
 	- Atlas:		No gestalt file created
 	- ChildrenOfTheVault:  	No gestalt file created
-	- Eridian: 		Done!s
+	- Eridian: 		Done!
 	- Torgue: 		No gestalt file created
 	- Vladof: 		Files were seperated the old way but otherwise very close
 Pistols:
-	- Atlas:		No gestalt files created
+	- Atlas:		Done!
 	- ChildrenOfTheVault:	No gestalt files created
 	- Dahl:			Gestalt file created, multiple intersecting parts
 	- Jakobs:		Done!
