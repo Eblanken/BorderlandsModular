@@ -13,7 +13,7 @@ HeavyWeapons:
 	- Vladof: 		Files were seperated the old way but otherwise very close
 Pistols:
 	- Atlas:		Done!
-	- ChildrenOfTheVault:	No gestalt files created
+	- ChildrenOfTheVault:	Done!
 	- Dahl:			Gestalt file created, multiple intersecting parts
 	- Jakobs:		Done!
 	- Maliwan:		No gestalt files created
