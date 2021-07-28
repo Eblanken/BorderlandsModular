@@ -6,11 +6,11 @@ AssaultRifles:
 	- Torgue:		Done!
 	- Vladof:		Done!
 HeavyWeapons:
-	- Atlas:		No gestalt file created
-	- ChildrenOfTheVault:  	No gestalt file created
+	- Atlas:		Done!
+	- ChildrenOfTheVault:  	Created gestalt decomposition
 	- Eridian: 		Done!
-	- Torgue: 		No gestalt file created
-	- Vladof: 		Files were seperated the old way but otherwise very close
+	- Torgue: 		Almost done, but need to review magazines and sight rails
+	- Vladof: 		Done!
 Pistols:
 	- Atlas:		Done!
 	- ChildrenOfTheVault:	Done!
@@ -28,12 +28,12 @@ Shotguns:
 	- Torgue: 		Done! There are two of what appear to be shells buried in the gun which are unsorted but may be animation aids
 SniperRifles:
 	- Dahl:			Almost done! There are three items I was unable to associate to anything yet
-	- Hyperion:		No gestalt files created
+	- Hyperion:		Almost done! Need to do seperation on one shield type and finish reintegration of one superimposed grip
 	- Jakobs:		Almost done! Two strange rings that look like they are part of scope 3 and the trigges need to be sorted.
 	- Maliwan:		Created gestalt, the grips are all merged together
 	- Vladof:		Done!
 Submachineguns:
 	- Dahl:			Done!
-	- Hyperion:		No gestalt files created
+	- Hyperion:		Done!
 	- Maliwan:		Almost done but lots of issues. Many overlayed vertices and the melee attatchment disappeared.
 	- Tediore:		No gestalt files created
