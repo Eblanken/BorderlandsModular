@@ -7,7 +7,7 @@ AssaultRifles:
 	- Vladof:		Done!
 HeavyWeapons:
 	- Atlas:		Done!
-	- ChildrenOfTheVault:  	Created gestalt decomposition
+	- ChildrenOfTheVault:  	Almost done, grips were merged and a bit strange when un-merging
 	- Eridian: 		Done!
 	- Torgue: 		Almost done, but need to review magazines and sight rails
 	- Vladof: 		Done!
@@ -18,13 +18,13 @@ Pistols:
 	- Jakobs:		Done!
 	- Maliwan:		No gestalt files created
 	- Tediore:		No gestalt files created
-	- Torque: 		Gestalt file created, need to start
+	- Torque: 		Gestalt file created, video does not exist.
 	- Vladof: 		Finished other than seperating mesh for underbarrel zip rockets small/large magazine 
 Shotguns:
-	- Hyperion:		No gestalt files created
+	- Hyperion:		Almost done! Todo sort on elemental capacitor and grip
 	- Jakobs:		Almost done, lots of stuff got mixed up and am still seperating it out
 	- Maliwan:		No gestalt files created
-	- Tediore:		No gestalt files created
+	- Tediore:		Almost done! Body and underbarrel modules are merged still.
 	- Torgue: 		Done! There are two of what appear to be shells buried in the gun which are unsorted but may be animation aids
 SniperRifles:
 	- Dahl:			Almost done! There are three items I was unable to associate to anything yet
