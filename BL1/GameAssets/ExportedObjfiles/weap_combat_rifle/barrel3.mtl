@@ -12,6 +12,6 @@ newmtl mat_combat_rifle_INST
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Work\BorderlandsModular\BL2\GameAssets\UModelExports\weap_combat_rifle\Texture\tex_combat_rifle_color.tga
-	map_Kd C:\Work\BorderlandsModular\BL2\GameAssets\UModelExports\weap_combat_rifle\Texture\tex_combat_rifle_color.tga
+	map_Ka C:\Work\BorderlandsModular\BL2\GameAssets\UModelExports\weap_combat_rifle\Texture\tex_combat_rifle_norm.tga
+	map_Kd C:\Work\BorderlandsModular\BL2\GameAssets\UModelExports\weap_combat_rifle\Texture\tex_combat_rifle_norm.tga
 	norm C:\Work\BorderlandsModular\BL2\GameAssets\UModelExports\weap_combat_rifle\Texture\tex_combat_rifle_norm.tga

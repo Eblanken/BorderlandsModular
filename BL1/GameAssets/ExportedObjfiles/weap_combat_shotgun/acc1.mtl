@@ -12,6 +12,6 @@ newmtl mat_weapons_1_INST
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka N:\Projects\BorderlandsGunModels\UmodelExport\weap_combat_shotgun\Texture2D\tex_combat_shotgun_light.tga
-	map_Kd N:\Projects\BorderlandsGunModels\UmodelExport\weap_combat_shotgun\Texture2D\tex_combat_shotgun_light.tga
+	map_Ka N:\Projects\BorderlandsGunModels\UmodelExport\weap_combat_shotgun\Texture2D\tex_combat_shotgun_norm.tga
+	map_Kd N:\Projects\BorderlandsGunModels\UmodelExport\weap_combat_shotgun\Texture2D\tex_combat_shotgun_norm.tga
 	norm N:\Projects\BorderlandsGunModels\UmodelExport\weap_combat_shotgun\Texture2D\tex_combat_shotgun_norm.tga

@@ -12,6 +12,6 @@ newmtl mat_rocket_launcher_new
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Work\BorderlandsModular\BL2\GameAssets\UModelExports\weap_rocket_launcher\Texture\tex_rocket_launcher_color.tga
-	map_Kd C:\Work\BorderlandsModular\BL2\GameAssets\UModelExports\weap_rocket_launcher\Texture\tex_rocket_launcher_color.tga
+	map_Ka C:\Work\BorderlandsModular\BL2\GameAssets\UModelExports\weap_rocket_launcher\Texture\tex_rocket_launcher_light.tga
+	map_Kd C:\Work\BorderlandsModular\BL2\GameAssets\UModelExports\weap_rocket_launcher\Texture\tex_rocket_launcher_light.tga
 	norm C:\Work\BorderlandsModular\BL2\GameAssets\UModelExports\weap_rocket_launcher\Texture\tex_rocket_launcher_norm.tga
