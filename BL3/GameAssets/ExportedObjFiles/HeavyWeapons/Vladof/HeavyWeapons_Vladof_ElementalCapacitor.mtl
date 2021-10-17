@@ -1,0 +1,14 @@
+# Blender MTL File: 'HeavyWeapons_Vladof_gestaltdecomposition.blend'
+# Material Count: 1
+
+newmtl MI_HW_Vla_Common
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Erik2\\Desktop\\BModular\\BL3\\GameAssets\\UModelExportsOut\\Game\\Gear\\Weapons\\_Shared\\Textures\\Surfaces\\T_Wood_Rough_01_D.tga
+map_Ke C:\\Users\\Erik2\\Desktop\\BModular\\BL3\\GameAssets\\UModelExportsOut\\Game\\Gear\\Weapons\\HeavyWeapons\\Vladof\\_Shared\\Model\\Textures\\T_HW_VLA_E.tga

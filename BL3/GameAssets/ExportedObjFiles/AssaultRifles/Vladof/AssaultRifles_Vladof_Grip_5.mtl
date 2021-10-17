@@ -1,0 +1,26 @@
+# Blender MTL File: 'AssaultRifles_Vladof_gestaltDecomposition.blend'
+# Material Count: 2
+
+newmtl MI_AR_Vla_Common
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd T_AR_Vlad_C.tga
+map_Ke C:\\T_AR_Vlad_E.tga
+
+newmtl MI_AR_Vla_Common.003
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd G:\\Users\\Erik2\\Desktop\\GitHub\\BorderlandsModular\\BL3\\GameAssets\\ExportedObjFiles\\AssaultRifles\\Vladof\\T_AR_Vlad_C.tga
+map_Ke G:\\T_AR_Vlad_E.tga
